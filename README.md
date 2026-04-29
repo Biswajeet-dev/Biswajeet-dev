@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SARKAR
+# 👋 Hi, I'm Biswajeet
 
 🚀 **Full Stack Developer | Backend Specialist | System Design Enthusiast**
 
@@ -30,11 +30,11 @@ I design and build **scalable, production-grade applications** with a strong foc
 
 ## 📊 GitHub Stats
 
-![Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswajeet-dev\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeet-dev\&layout=compact\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Biswajeet-dev\&theme=tokyonight)
 
 ---
 
@@ -83,7 +83,7 @@ I design and build **scalable, production-grade applications** with a strong foc
 
 ## ⚙️ Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biswajeet-dev\&theme=tokyo-night)
 
 ---
 
