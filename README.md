@@ -87,18 +87,6 @@ I design and build **scalable, production-grade applications** with a strong foc
 
 ---
 
-## 🧠 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 🌀 Coding Vibe
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
 ## 📫 Connect
 
 * 💼 Open for backend/system design collaborations
@@ -107,3 +95,15 @@ I design and build **scalable, production-grade applications** with a strong foc
 ---
 
 ⭐ *Explore my repositories and build something impactful together.*
+
+---
+
+## 🧠 Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+
+
+
